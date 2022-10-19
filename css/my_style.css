@@ -1,0 +1,18 @@
+body {
+  background-color: #D8D9CF;
+  background-image: url("D:/OneDrive - Coforge Limited/Documents/WebDevelopment/HTML - Personal Site/background-image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Ariel Black", sans-serif;
+}
+hr {
+  border-color: #18978F;
+  background-color: transparent;
+  border-style: dotted none none none;
+  border-top-width: 10px;
+  width: 7%
+}
+
+h1, h2, h3 {
+  color: #16213E;
+}
